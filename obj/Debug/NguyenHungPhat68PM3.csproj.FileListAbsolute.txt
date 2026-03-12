@@ -1,0 +1,11 @@
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.csproj.AssemblyReference.cache
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.Properties.Resources.resources
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.csproj.GenerateResource.cache
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.csproj.CoreCompileInputs.cache
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.Form1.resources
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\bin\Debug\NguyenHungPhat68PM3.exe.config
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\bin\Debug\NguyenHungPhat68PM3.exe
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\bin\Debug\NguyenHungPhat68PM3.pdb
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.exe
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.pdb
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.LoginForm.resources
