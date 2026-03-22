@@ -9,3 +9,5 @@ C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\bin\Debug\Ng
 C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.exe
 C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.pdb
 C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.LoginForm.resources
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.ClassForm.resources
+C:\Users\phsam\source\repos\NguyenHungPhat68PM3\NguyenHungPhat68PM3\obj\Debug\NguyenHungPhat68PM3.MainForm.resources
